@@ -1,5 +1,5 @@
 lic class SpiralPatternExample2
-{  
+{ DOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
 //function to print the spiral pattern  first public
 public static void printPattern(int n)  
 {  
